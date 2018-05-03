@@ -59,7 +59,7 @@
 
 ## Visit
 
-Currently deployed with heroku: <a href="https://sakanasushifusion.herokuapp.com" target="_blank">**Sakana Sushi Fusion**</a>
+Currently deployed with heroku: <a href="" target="_blank">**GeoTweets**</a>
 
 ---
 
